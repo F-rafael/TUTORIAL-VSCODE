@@ -1,0 +1,2 @@
+Las meta tags, metaetiquetas o etiquetas meta son breves líneas de código HTML que se ubican en la sección head (cabecera) de las páginas web HTML o XHTML y sirven para especificar con mayor precisión el contenido de una página a los motores de búsqueda u otros servicios web. 
+Esta información adicional puede ser su autoría, la codificación de caracteres o una breve descripción de la página entre otras cosas.Si html
